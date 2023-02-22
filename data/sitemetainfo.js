@@ -15,7 +15,7 @@ const siteMetaInfo = {
   siteLogo: "../assets/author.jpg",
   image: "~/assets/author.jpg",
   socialBanner: "/static/images/twitter-card.png",
-  email: "hristo@prettneat.io",
+  email: "hristo@prettyneat.io",
   github: "https://github.com/eflini7y",
   githubUser: "eflini7y",
   twitter: "#",
