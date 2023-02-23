@@ -24,6 +24,8 @@ const siteMetaInfo = {
   youtube: "https://youtube.com/@Elfini7y",
   facebook: "https://facebook.com/Elfini7y",
   linkedin: "https://www.linkedin.com/in/hristo-petrov-468450239",
+  twitch: "https://twitch.tv/Elfini7y",
+  twitch_user: "Elfini7y",
 };
 
 export default siteMetaInfo;

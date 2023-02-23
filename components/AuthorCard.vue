@@ -36,7 +36,11 @@
       </div>
       <div class="my-2 text-gray-600 flex dark:text-blue-200">
         <Github class="mr-2"/>
-        <a :href="siteMetadata.github"> {{ siteMetadata.githubUser }}</a>
+        <a :href="siteMetadata.github" target="_blank"> {{ siteMetadata.githubUser }}</a>
+      </div>
+      <div class="my-2 text-gray-600 flex dark:text-blue-200">
+        <Twitch class="mr-2"/>
+        <a :href="siteMetadata.twitch" target="_blank"> {{ siteMetadata.twitch_user }}</a>
       </div>
     </div>
   </div>
@@ -46,9 +50,10 @@
 import Mail from "../assets/icon/mail.svg?inline";
 import Glob from "../assets/icon/glob.svg?inline";
 import Github from "../assets/icon/github_new.svg?inline";
+import Twitch from "../assets/icon/twitch.svg?inline";
 import siteMetaInfo from "@/data/sitemetainfo";
 export default {
-  components: { Mail, Glob, Github },
+  components: { Mail, Glob, Github, Twitch },
   data: () => {
     return {
       siteMetadata: siteMetaInfo,
