@@ -18,11 +18,12 @@ const siteMetaInfo = {
   email: "hristo@prettyneat.io",
   github: "https://github.com/elfini7y",
   githubUser: "elfini7y",
-  twitter: "#",
+  twitter: "https://twitter.com/@Elfini7y",
   twitter_user: "elfini7y",
   stackoverflow: "#",
-  youtube: "#",
-  linkedin: "#",
+  youtube: "https://youtube.com/@Elfini7y",
+  facebook: "https://facebook.com/Elfini7y",
+  linkedin: "https://www.linkedin.com/in/hristo-petrov-468450239",
 };
 
 export default siteMetaInfo;

@@ -18,10 +18,10 @@ const siteMetadata = {
   email: "hristo@prettyneat.io",
   github: "https://github.com/Elfini7y",
   githubUser: "Elfini7y",
-  twitter: "@Elfini7y",
+  twitter: "https://twitter.com/@Elfini7y",
   twitter_user: "@Elfini7y",
   stackoverflow: "#",
-  youtube: "@Elfini7y",
+  youtube: "https://youtube.com/@Elfini7y",
   linkedin: "#",
 };
 

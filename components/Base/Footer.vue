@@ -47,13 +47,7 @@
           >{{ siteMetadata.author }}'s personal - {{ siteMetadata.slogan }}</a
         >
       </div>
-      <div class="mb-8 text-sm text-gray-500 dark:text-gray-400">
-        <a
-          target="_blank"
-          rel="noopener noreferrer"
-          href="https://github.com/mdrathik/tailwind-nuxtjs-starter-blog"
-        ></a>
-      </div>
+
       <BuyMeACoffee></BuyMeACoffee>
     </div>
   </footer>
