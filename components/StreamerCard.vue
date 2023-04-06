@@ -1,5 +1,5 @@
 <template>
-  <div class="p-4 w-1/3 max-w-md ">
+  <div class="p-4 sm:w-1/3 w-full max-w-md ">
     <div class="bg-white rounded-xl shadow-md overflow-hidden">
       <div class="bg-gray-200 h-48 flex items-center justify-center">
         <img class="w-32 h-32 object-cover rounded-full" :src="`https://static-cdn.jtvnw.net/jtv_user_pictures/${streamer.twitchGuid}-profile_image-150x150.png`" :alt="`${streamer.username} profile picture`">
