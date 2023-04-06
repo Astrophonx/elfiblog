@@ -9,7 +9,7 @@
       />
       <div class="mb-2 mx-7 mt-4 justify-center items-center">
         <h1
-          class="md:text-3xl text-2xl text-gray-800 font-bold dark:text-blue-100"
+          class="md:text-3xl text-2xl text-gray-800 font-bold dark:text-blue-100 troikaFont"
         >
           {{ siteMetadata.author }}
         </h1>

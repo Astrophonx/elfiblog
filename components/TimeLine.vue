@@ -11,7 +11,7 @@
           />
         </span>
         <h3
-          class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white"
+          class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white troikaFont"
         >
           Full-stack Developer at PrettyNeat
           <span
@@ -36,7 +36,7 @@
             src="~assets/icon/academy.svg"
           />
         </span>
-        <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
+        <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white troikaFont">
           2014 - Salisbury University - B.S. in Computer Science
         </h3>
         <time
@@ -60,7 +60,7 @@
             src="~assets/icon/home.svg"
           />
         </span>
-        <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
+        <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white troikaFont">
           Born in 1994, June 16
         </h3>
         <time

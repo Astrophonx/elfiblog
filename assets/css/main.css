@@ -6,5 +6,9 @@
   @apply text-blue-500;
 }
 body{
-  font-family: "Troika";
+  font-family: "Verdana", sans-serif;
+}
+
+.troikaFont{
+  font-family: "Troika", sans-serif;
 }
