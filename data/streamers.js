@@ -35,6 +35,11 @@ const streamers = [
         "username": "richmcp",
         "displayName": "richmcp",
         "twitchGuid": "d9b32832-f7cc-46ec-8756-7fe4135f7b84",
+    },
+    {
+        "username": "dolphin1983_",
+        "displayName": "dolphin1983_",
+        "twitchGuid": "f76338db-cd12-4edb-96a0-2e4d6bfc1707",
     }
 ]
 
