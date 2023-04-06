@@ -40,6 +40,11 @@ const streamers = [
         "username": "richmcp",
         "displayName": "richmcp",
         "twitchGuid": "d9b32832-f7cc-46ec-8756-7fe4135f7b84",
+    },
+    {
+        "username": "bambi8angeleyes",
+        "displayName": "Bambi8AngelEyes",
+        "twitchGuid": "019bdcbe-88e0-477e-b38a-018f4548fda9",
     }
 ]
 
