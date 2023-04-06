@@ -1,9 +1,13 @@
 const streamers = [
     {
-        "username": "sokkacraft",
-        "displayName": "SokkaCraft",
-        "twitchGuid": "ac2eaae0-e578-4f8d-ac6c-e02eab9c4837",
-        "description": "Mainly a Minecraft Youtuber. Streaming the Grind. We make Avatar the Last Airbender Minecraft builds and Letsplay Episodes.",
+        "username": "daveguy_",
+        "displayName": "DaveGuy_",
+        "twitchGuid": "67a1826e-b80d-42be-91f0-2b7f832143bf",
+    },
+    {
+        "username": "mrmattranger",
+        "displayName": "MrMattRanger",
+        "twitchGuid": "5ca57dce-c9e9-4732-a917-271d0aae69bf",
     },
     {
         "username": "grady",
@@ -17,14 +21,10 @@ const streamers = [
         "twitchGuid": "df3b0580-bc0f-4988-81c8-b1b751cf8184",
     },
     {
-        "username": "daveguy_",
-        "displayName": "DaveGuy_",
-        "twitchGuid": "67a1826e-b80d-42be-91f0-2b7f832143bf",
-    },
-    {
-        "username": "mrmattranger",
-        "displayName": "MrMattRanger",
-        "twitchGuid": "5ca57dce-c9e9-4732-a917-271d0aae69bf",
+        "username": "sokkacraft",
+        "displayName": "SokkaCraft",
+        "twitchGuid": "ac2eaae0-e578-4f8d-ac6c-e02eab9c4837",
+        "description": "Mainly a Minecraft Youtuber. Streaming the Grind. We make Avatar the Last Airbender Minecraft builds and Letsplay Episodes.",
     },
     {
         "username": "mattyrocco",
