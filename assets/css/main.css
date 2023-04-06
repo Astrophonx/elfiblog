@@ -5,3 +5,6 @@
 .nuxt-link-exact-active {
   @apply text-blue-500;
 }
+body{
+  font-family: "Troika";
+}
