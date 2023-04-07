@@ -4,7 +4,7 @@
         <h1
           class="troikaFont text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14"
         >
-          The PogU SMP 
+          My Friends SMP
         </h1>
         <p class="text-lg leading-7 text-gray-500 dark:text-gray-400">
           The streamers I watch the most and also friends of mine.
