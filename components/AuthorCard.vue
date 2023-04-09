@@ -76,7 +76,7 @@ export default {
   methods:{
     async showRandomGif(){
       if(this.mouseOver) return;
-      const response = await fetch(`https://api.giphy.com/v1/gifs/random?api_key=${process.env.GiphyApiKey}`)
+      const response = await fetch(`https://api.giphy.com/v1/gifs/random?api_key=BfT5cnYuXGy64HJ91ROZ8q3PS9MSWKf5`)
       if(response.status == 200){
         const data = await response.json();
         this.randomGif = data.data.images.original.webp;
