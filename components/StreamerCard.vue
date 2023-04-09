@@ -6,7 +6,7 @@
       </div>
       <div class="px-4 py-2 flex justify-between">
         <h2 class="text-gray-800 text-xl font-bold troikaFont">{{ streamer.displayName }}</h2>
-        <a :href="`https://www.twitch.tv/${streamer.username}`" target="_blank" class="text-purple-600 hover:text-purple-700 text-xl font-bold troikaFont">Check Now</a>
+        <a :href="`https://www.twitch.tv/${streamer.username}`" target="_blank" class="text-indigo-600 hover:text-indigo-700 text-xl font-bold troikaFont">Check Now</a>
       </div>
     </div>
   </div>
